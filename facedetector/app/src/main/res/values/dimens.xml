@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="downwards_drop_shadow_height">16dp</dimen>
+
+    <dimen name="action_button_size">56dp</dimen>
+
+    <dimen name="padding_window">16dp</dimen>
+    <dimen name="padding_default">8dp</dimen>
+
+    <dimen name="tag_tip">20sp</dimen>
+    <dimen name="tag_action">16sp</dimen>
+    <dimen name="tag_h1">18sp</dimen>
+    <dimen name="tag_h2">16sp</dimen>
+    <dimen name="tag_h3">14sp</dimen>
+    <dimen name="tag_text">16sp</dimen>
+    <dimen name="tag_lab">16sp</dimen>
+    <dimen name="tag_parag">4dp</dimen>
+    <dimen name="tag_spliter">1.2dp</dimen>
+
+    <dimen name="mcam_toolbar_elevation">4dp</dimen>
+    <dimen name="mcam_content_inset_less">12dp</dimen>
+    <dimen name="mcam_content_inset">16dp</dimen>
+    <dimen name="mcam_content_inset_double">32dp</dimen>
+    <dimen name="mcam_regular_content_fontsize">14sp</dimen>
+    <dimen name="mcam_regular_title_fontsize">16sp</dimen>
+    <dimen name="mcam_regular_header_fontsize">36sp</dimen>
+    <dimen name="mcam_action_icon_size">56dp</dimen>
+    <dimen name="mcam_action_icon_size_smaller">48dp</dimen>
+</resources>
